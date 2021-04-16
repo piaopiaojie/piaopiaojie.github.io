@@ -2,12 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://chauby.github.io
+url: https://piaopiaojie.github.io
 date_format: "ordinal"
-title: 沙漏
-subtitle: "沙漏没有水，但依旧流逝时间"
-description: "The sandglass remembers the time we mislay"
-keywords: 沙漏, 博士的沙漏, Chauby Zou, Chauby, Chaobin Zou 
+title: piaopiaojie
+subtitle: "花开-COPY.PZ.YM"
+description: "未来有多远，像过眼云烟"
+keywords: piaopiaojie,Shanghai,China 
 # timezone: Asia/Chengdu
 encoding: "utf-8"
 side_bar_repo_limit: 5
@@ -15,12 +15,12 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Chauby
-organization: UESTC
-organization_url: http://www.uestc.edu.cn
-github_username: Chauby
-location: Chengdu, China
-email: chaubyZou@163.com
+author: piaopiaojie
+organization: ZJU
+organization_url: zju
+github_username: piaopiaojie
+location: Shanghai, China
+email: zjuqrj@163.com
 
 # ---------------- #
 #    Navigation    #
@@ -81,7 +81,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: chauby/chauby.github.io
+repository: piaopiaojie/piaopiaojie.github.io
 
 # ---------------- #
 #      Comments    #
