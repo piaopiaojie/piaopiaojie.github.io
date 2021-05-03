@@ -49,6 +49,10 @@ navs:
   -
     href: /links/
     label: Links
+  -
+
+    href: /test/
+    label: test
 
 # ---------------- #
 #       RSS        #
